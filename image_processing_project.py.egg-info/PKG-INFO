@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: image-processing-project.py
+Version: 0.0.2
+Summary: Image processing project in Python
+Home-page: https://github.com/yurimacena/image-processing-project.py
+Author: Yuri M.
+Author-email: yurimacenadev@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # image_processing_project.py
 
 Description. 
